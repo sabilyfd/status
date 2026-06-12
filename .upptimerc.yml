@@ -7,10 +7,7 @@ sites:
     url: https://training.shibirsec.qzz.io
   - name: Office
     url: https://shughran.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -33,7 +30,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 45 * * *"
-  uptime: "*/60 * * * *"
+  uptime: "*/50 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
