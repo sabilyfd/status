@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/training.shibirsec.qzz.io.ico",
     "slug": "lms",
     "status": "down",
-    "uptime": "6.76%",
-    "uptimeDay": "6.76%",
-    "uptimeWeek": "6.76%",
-    "uptimeMonth": "6.76%",
-    "uptimeYear": "6.76%",
-    "time": 19545,
-    "timeDay": 19545,
-    "timeWeek": 19545,
-    "timeMonth": 19545,
-    "timeYear": 19545,
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 19497,
+    "timeDay": 19497,
+    "timeWeek": 19497,
+    "timeMonth": 19497,
+    "timeYear": 19497,
     "dailyMinutesDown": {
-      "2026-06-12": 16
+      "2026-06-13": 267,
+      "2026-06-12": 386
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shughran.com.ico",
     "slug": "office",
     "status": "down",
-    "uptime": "1.16%",
-    "uptimeDay": "1.16%",
-    "uptimeWeek": "1.16%",
-    "uptimeMonth": "1.16%",
-    "uptimeYear": "1.16%",
-    "time": 572,
-    "timeDay": 572,
-    "timeWeek": 572,
-    "timeMonth": 572,
-    "timeYear": 572,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {
-      "2026-06-12": 16
+      "2026-06-13": 268,
+      "2026-06-12": 386
     }
   }
 ]
