@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/training.shibirsec.qzz.io.ico",
     "slug": "lms",
     "status": "up",
-    "uptime": "78.45%",
+    "uptime": "78.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "79.05%",
-    "uptimeMonth": "78.45%",
-    "uptimeYear": "78.45%",
+    "uptimeMonth": "78.78%",
+    "uptimeYear": "78.78%",
     "time": 8528,
     "timeDay": 3239,
-    "timeWeek": 5172,
+    "timeWeek": 5409,
     "timeMonth": 8528,
     "timeYear": 8528,
     "dailyMinutesDown": {
@@ -32,14 +32,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/shughran.com.ico",
     "slug": "office",
     "status": "up",
-    "uptime": "85.92%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "91.07%",
-    "uptimeMonth": "85.92%",
-    "uptimeYear": "85.92%",
+    "uptime": "86.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.20%",
+    "uptimeMonth": "86.21%",
+    "uptimeYear": "86.21%",
     "time": 645,
     "timeDay": 714,
-    "timeWeek": 675,
+    "timeWeek": 656,
     "timeMonth": 645,
     "timeYear": 645,
     "dailyMinutesDown": {
@@ -48,9 +48,7 @@
       "2026-06-15": 320,
       "2026-06-14": 298,
       "2026-06-21": 478,
-      "2026-06-20": 408,
-      "2026-06-24": 3,
-      "2026-06-23": 10
+      "2026-06-20": 408
     }
   }
 ]
