@@ -4,17 +4,17 @@
     "url": "https://training.shibirsec.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/training.shibirsec.qzz.io.ico",
     "slug": "lms",
-    "status": "down",
-    "uptime": "91.40%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "83.42%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "91.40%",
-    "time": 3897,
+    "status": "up",
+    "uptime": "91.35%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "82.86%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "91.35%",
+    "time": 3883,
     "timeDay": 2659,
-    "timeWeek": 1607,
-    "timeMonth": 2279,
-    "timeYear": 3897,
+    "timeWeek": 1703,
+    "timeMonth": 2289,
+    "timeYear": 3883,
     "dailyMinutesDown": {
       "2026-06-13": 382,
       "2026-06-12": 386,
@@ -32,7 +32,7 @@
       "2026-07-27": 215,
       "2026-08-15": 552,
       "2026-08-14": 1119,
-      "2026-08-16": 1
+      "2026-08-16": 57
     }
   },
   {
@@ -40,17 +40,17 @@
     "url": "https://shughran.com",
     "icon": "https://icons.duckduckgo.com/ip3/shughran.com.ico",
     "slug": "office",
-    "status": "down",
-    "uptime": "96.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "96.63%",
-    "time": 1212,
-    "timeDay": 2390,
-    "timeWeek": 3658,
-    "timeMonth": 1801,
-    "timeYear": 1212,
+    "status": "up",
+    "uptime": "96.57%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "96.57%",
+    "time": 1208,
+    "timeDay": 1875,
+    "timeWeek": 3441,
+    "timeMonth": 1776,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2026-06-13": 382,
       "2026-06-12": 386,
@@ -64,7 +64,7 @@
       "2026-07-19": 338,
       "2026-08-10": 107,
       "2026-08-11": 78,
-      "2026-08-16": 0
+      "2026-08-16": 56
     }
   }
 ]
