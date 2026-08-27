@@ -4,17 +4,17 @@
     "url": "https://training.shibirsec.qzz.io",
     "icon": "https://icons.duckduckgo.com/ip3/training.shibirsec.qzz.io.ico",
     "slug": "lms",
-    "status": "up",
-    "uptime": "91.24%",
-    "uptimeDay": "86.51%",
+    "status": "down",
+    "uptime": "91.26%",
+    "uptimeDay": "94.31%",
     "uptimeWeek": "92.27%",
-    "uptimeMonth": "92.18%",
-    "uptimeYear": "91.24%",
-    "time": 3555,
-    "timeDay": 2743,
-    "timeWeek": 2600,
-    "timeMonth": 2050,
-    "timeYear": 3555,
+    "uptimeMonth": "92.67%",
+    "uptimeYear": "91.26%",
+    "time": 3536,
+    "timeDay": 2809,
+    "timeWeek": 2521,
+    "timeMonth": 2031,
+    "timeYear": 3536,
     "dailyMinutesDown": {
       "2026-06-13": 382,
       "2026-06-12": 386,
@@ -38,7 +38,8 @@
       "2026-08-20": 120,
       "2026-08-23": 528,
       "2026-08-25": 57,
-      "2026-08-26": 194
+      "2026-08-26": 194,
+      "2026-08-27": 0
     }
   },
   {
