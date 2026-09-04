@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/training.shibirsec.qzz.io.ico",
     "slug": "lms",
     "status": "down",
-    "uptime": "89.69%",
-    "uptimeDay": "100.00%",
+    "uptime": "89.57%",
+    "uptimeDay": "88.69%",
     "uptimeWeek": "79.28%",
-    "uptimeMonth": "86.22%",
-    "uptimeYear": "89.69%",
+    "uptimeMonth": "85.85%",
+    "uptimeYear": "89.57%",
     "time": 3701,
     "timeDay": 1947,
     "timeWeek": 5123,
@@ -43,7 +43,8 @@
       "2026-08-27": 652,
       "2026-08-29": 367,
       "2026-09-01": 914,
-      "2026-08-31": 507
+      "2026-08-31": 507,
+      "2026-09-04": 163
     }
   },
   {
