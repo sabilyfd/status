@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/training.shibirsec.qzz.io.ico",
     "slug": "lms",
     "status": "up",
-    "uptime": "86.77%",
+    "uptime": "86.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.95%",
+    "uptimeWeek": "84.28%",
     "uptimeMonth": "81.56%",
-    "uptimeYear": "86.77%",
+    "uptimeYear": "86.78%",
     "time": 3335,
     "timeDay": 1670,
     "timeWeek": 2812,
@@ -72,11 +72,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shughran.com.ico",
     "slug": "office",
     "status": "down",
-    "uptime": "96.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "96.84%",
+    "uptime": "96.77%",
+    "uptimeDay": "90.74%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "96.77%",
     "time": 1058,
     "timeDay": 438,
     "timeWeek": 835,
@@ -109,7 +109,7 @@
       "2026-10-10": 238,
       "2026-10-15": 59,
       "2026-10-14": 77,
-      "2026-10-24": 0
+      "2026-10-24": 133
     }
   }
 ]
